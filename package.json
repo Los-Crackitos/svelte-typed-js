@@ -1,5 +1,5 @@
 {
-  "name": "svelte-type-js",
+  "name": "svelte-typed-js",
   "version": "0.1.0",
   "description": "Typed.js Svelte component",
   "main": "src/index.js",
@@ -22,5 +22,6 @@
   "devDependencies": {
     "svelte": "^3.25.0",
     "typed.js": "^2.0.11"
-  }
+  },
+  "dependencies": {}
 }
