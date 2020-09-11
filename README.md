@@ -18,7 +18,7 @@ Checkout the official project [here](https://github.com/mattboldt/typed.js/).
 # Installation
 
 ```
-npm i -D svelte-typed-js
+npm i -D @loscrackitos/svelte-typed-js
 ```
 
 ## Default import
@@ -26,7 +26,7 @@ npm i -D svelte-typed-js
 Import the component:
 
 ```javascript
-import TypedJS from 'svelte-typed-js';
+import TypedJs from '@loscrackitos/svelte-typed-js';
 ```
 
 # Usage
