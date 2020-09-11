@@ -1,0 +1,26 @@
+{
+  "name": "svelte-type-js",
+  "version": "0.1.0",
+  "description": "Typed.js Svelte component",
+  "main": "src/index.js",
+  "svelte": "src/TypedJs.svelte",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Los-Crackitos/svelte-typed-js.git"
+  },
+  "keywords": [
+    "svelte",
+    "components",
+    "typed.js"
+  ],
+  "author": "Jérôme Pogeant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Los-Crackitos/svelte-typed-js/issues"
+  },
+  "homepage": "https://github.com/Los-Crackitos/svelte-typed-js#readme",
+  "devDependencies": {
+    "svelte": "^3.25.0",
+    "typed.js": "^2.0.11"
+  }
+}
