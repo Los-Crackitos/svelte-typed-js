@@ -1,7 +1,7 @@
 # svelte-typed-js
 
-[![npm](https://img.shields.io/npm/v/svelte-typed-js.svg)](https://www.npmjs.com/package/svelte-typed-js)
-[![npm](https://img.shields.io/npm/dm/svelte-typed-js.svg)](https://www.npmjs.com/package/svelte-typed-js)
+[![npm](https://img.shields.io/npm/v/@loscrackitos/svelte-typed-js.svg)](https://www.npmjs.com/package/@loscrackitos/svelte-typed-js)
+[![npm](https://img.shields.io/npm/dm/@loscrackitos/svelte-typed-js.svg)](https://www.npmjs.com/package/@loscrackitos/svelte-typed-js)
 
 Svelte Typed.js component
 
@@ -26,7 +26,7 @@ npm i -D svelte-typed-js
 Import the component:
 
 ```javascript
-import TypedJS from "svelte-typed-js";
+import TypedJS from 'svelte-typed-js';
 ```
 
 # Usage
