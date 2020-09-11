@@ -1,9 +1,14 @@
 {
   "name": "@loscrackitos/svelte-typed-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Typed.js Svelte component",
-  "main": "src/index.js",
-  "svelte": "src/TypedJs.svelte",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "svelte": "src/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Los-Crackitos/svelte-typed-js.git"
@@ -20,6 +25,9 @@
   },
   "homepage": "https://github.com/Los-Crackitos/svelte-typed-js#readme",
   "devDependencies": {
+    "rollup": "^2.26.11",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-svelte": "^6.0.1",
     "svelte": "^3.25.0",
     "typed.js": "^2.0.11"
   },

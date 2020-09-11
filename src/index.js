@@ -1,3 +1,3 @@
-import TypedJS from "./TypedJs.svelte";
+import TypedJs from './TypedJs.svelte';
 
-export default TypedJS;
+export default TypedJs;
